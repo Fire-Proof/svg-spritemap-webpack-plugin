@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg"><symbol id="css-namespace-multiple-files-1" viewBox="0 0 300 200"><title>css-namespace-multiple-files-1</title>
+    <defs>
+        <style>
+            .a-cls-1 {
+                fill: red
+            }
+        </style>
+    </defs>
+    <rect class="a-cls-1" width="100%" height="100%"/>
+</symbol><symbol id="css-namespace-multiple-files-2" viewBox="0 0 300 200"><title>css-namespace-multiple-files-2</title>
+    <defs>
+        <style>
+            .b-cls-1 {
+                fill: red
+            }
+        </style>
+    </defs>
+    <rect class="b-cls-1" width="100%" height="100%"/>
+</symbol></svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg"><symbol id="css-namespace-multiple-classes" viewBox="0 0 300 200"><title>css-namespace-multiple-classes</title>
+    <defs>
+        <style>
+            .a-cls-1 {
+                fill: red
+            }
+            .a-cls-2 {
+                fill: blue
+            }
+        </style>
+    </defs>
+    <rect class="a-cls-1" width="100%" height="100%"/>
+    <rect class="a-cls-2" width="50%" height="100%"/>
+</symbol></svg>
